@@ -8,7 +8,7 @@ The analysis combines VADER and TextBlob sentiment models to evaluate customer f
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer reviews contain valuable information about product quality, customer satisfaction, and user experience.
 
@@ -23,14 +23,14 @@ This project aims to answer key questions such as:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](dashboard.png)
 ![Dashboard](Positive_&_Negative_words.png)
 ![Dashboard](Sentiment_Overview_dashbord.png)
 ---
 
-## 🔍 Analyses Performed
+##  Analyses Performed
 
 ### 1. Data Cleaning & Preprocessing
 - Missing value handling
