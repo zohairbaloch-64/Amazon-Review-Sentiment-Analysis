@@ -96,7 +96,7 @@ This project aims to answer key questions such as:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -111,7 +111,7 @@ This project aims to answer key questions such as:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Positive reviews dominate the dataset.
 - Higher ratings strongly align with positive sentiment.
@@ -122,7 +122,7 @@ This project aims to answer key questions such as:
 
 ---
 
-## 📂 Dataset Features
+##  Dataset Features
 
 - Reviewer Name
 - Rating (1–5 Stars)
@@ -135,7 +135,7 @@ This project aims to answer key questions such as:
 
 ---
 
-## 🚀 Project Structure
+##  Project Structure
 
 ```text
 Amazon-Review-Sentiment-Analysis/
@@ -143,12 +143,14 @@ Amazon-Review-Sentiment-Analysis/
 ├── Amazon_Review_Sentiment_Analysis.ipynb
 ├── README.md
 ├── dashboard.png
+├── Sentiment_Overview_dashbord.png
+├── Positive_&_Negative_words.png
 └── dataset.csv
 ```
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of this project is to transform unstructured customer reviews into meaningful business insights using sentiment analysis, statistical exploration, and interactive visualizations.
 
